@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "bri-dashboard-hub.vercel.app"
+        }
+      ],
+      "destination": "https://ad-team-dashboards.vercel.app/:path*",
+      "permanent": true
+    }
+  ]
+}
