@@ -10,7 +10,7 @@ export default function Page() {
       <header className="mb-10">
         <div className="mb-5 h-1.5 w-28 rounded-full bg-gradient-to-r from-flamingo via-peach to-buttercream" />
         <h1 className="text-2xl font-semibold tracking-tight text-vault">
-          Bri&rsquo;s Dashboards
+          Ad Team Dashboards
         </h1>
         <p className="mt-1.5 text-sm text-text-secondary">
           Everything the ad team touches, one click away.

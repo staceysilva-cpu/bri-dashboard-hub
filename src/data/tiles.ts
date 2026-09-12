@@ -1,5 +1,5 @@
 /**
- * Source of truth for Bri's Dashboard Hub.
+ * Source of truth for Ad Team Dashboards (repo/URL slug remains `bri-dashboard-hub`).
  *
  * Three fixed sections, 20 tiles, in a locked order — do not reorder, add, or
  * drop tiles here without a spec change. Tiles whose URL isn't known yet are
