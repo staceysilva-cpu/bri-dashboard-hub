@@ -47,7 +47,7 @@ export const sections: Section[] = [
         label: "Runway",
         status: "live",
         href: "https://creative-ads-tracker.vercel.app/launches?brand=FIN",
-        note: "External",
+        note: "Internal Neato tool",
         description:
           "Dashboard for Upcoming Ad Launches and Creative Advertising Tracker.",
       },
