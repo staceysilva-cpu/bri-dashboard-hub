@@ -159,6 +159,13 @@ export const sections: Section[] = [
         description: "Internal Neato pricing, promos, and buy-box tool.",
       },
       {
+        label: "Tape",
+        status: "live",
+        href: "https://tape.neato.com/overview",
+        note: "Internal Neato tool",
+        description: "Neato's internal billbacks tool.",
+      },
+      {
         label: "Neatoverse",
         status: "live",
         href: "https://neatoverse.vercel.app/",
